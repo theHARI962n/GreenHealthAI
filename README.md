@@ -35,15 +35,15 @@ GreenHealthAI is an AI-powered web application that enables users to analyze pla
 - npm or yarn
 - A valid **Google Generative AI API Key**
 
-Usage 🖼️
+## Usage 🖼️
 
-Upload a plant image or drag & drop it into the designated area.
-Click on the "Analyze Plant" button to start the analysis.
-View the results on the screen and download the detailed report in PDF format.
+- Upload a plant image or drag & drop it into the designated area.
+- Click on the "Analyze Plant" button to start the analysis.
+- View the results on the screen and download the detailed report in PDF format.
 
-Acknowledgments 💖
+## Acknowledgments 💖
 
-Font Awesome for amazing icons.
-Google Generative AI for powering the image analysis.
-The PDFKit library for PDF generation.
+- Font Awesome for amazing icons.
+- Google Generative AI for powering the image analysis.
+- The PDFKit library for PDF generation.
 
