@@ -1,6 +1,6 @@
 # GreenHealthAI - Advanced Plant Analysis Tool 🌱
 
-GreenHealthAI is an AI-powered web application that enables users to analyze plant images for species identification, health assessment, and care recommendations. With advanced generative AI and PDF report generation, GreenHealthAI provides a user-friendly and efficient experience for plant enthusiasts and researchers.
+GreenHealthAI is an AI-powered web application that enables users to analyze plant images for species identification, health assessment, and care recommendations. With advanced generative AI and PDF report generation, GreenHealthAI provides a user-friendly and efficient experience for plant enthusiasts and researchers..
 
 ---
 
